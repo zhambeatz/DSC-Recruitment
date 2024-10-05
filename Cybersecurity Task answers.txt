@@ -1,0 +1,36 @@
+1. Hands-on Tasks Questions
+(1). FINDING THE FOLLOWING HIDDEN TEXT BY DOING EITHER ENCRYPTION OR DECRYPTION
+ eW91IGd1ZXNzZWQgaXQgcmlnaHQsIHRoaXMgaXMgQkFTRTY0ISE=
+
+Answer - You guessed it right, this is BASE64!!
+
+-------------------------------------------------------------------------------------
+
+(2). FINDING THE FOLLOWING HIDDEN TEXT BY DOING EITHER ENCRYPTION OR DECRYPTION
+%3Cscript%3Eyou%20found%20us%21%21%281%29%3C%2Fscript%3E.
+
+Answer - <script>you found us!!(1)</script>
+
+---------------------------------------------------------------------------------------
+
+(3). FINDING THE FOLLOWING HIDDEN TEXT BY DOING EITHER ENCRYPTION OR DECRYPTION
+LWxb ZWxfTTTua pfdw6HUU wbbis bnsf6
+
+Answer - (；′⌒`) (Couldn't find the answer)
+
+----------------------------------------------------------------------------------------------
+
+3. Let’s Play CTF
+Task 1 - What is the hidden flag embedded in the chaotic content found in the provided file?
+Use this file to search for finding the answer! 
+
+Answer - fl4g{hidden_in_the_binary_forest}
+
+-----------------------------------------------------------------------------------------------
+
+Task 2 - What is the message embedded in the chaotic paragraph found in the given story?
+Use this file to search for finding the answer! 
+
+Answer - CTF{OnePieceIsReal}
+
+-------------------------------------------------------------------------------------------------
